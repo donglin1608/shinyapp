@@ -1,0 +1,10 @@
+name: shinyapp
+title:
+username: donglin1608
+account: donglin1608
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12657725
+bundleId: 9081461
+url: https://donglin1608.shinyapps.io/shinyapp/
+version: 1
